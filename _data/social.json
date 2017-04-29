@@ -1,18 +1,14 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
-  },
-  {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "https://www.twitter.com/camigomez318"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://www.linkedin.com/in/camigomez35/"
   },
   {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "fa-github",
+    "link": "https://www.github.com/camigomez35"
   }
 ]
